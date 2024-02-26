@@ -1,2 +1,3 @@
-# LLM-Open-Course-by-Kalbe
-This repository is used for homework assignment submissions by the author for KDU LLM Meet Up.
+# LLMs Open Course by Kalbe Tirta
+
+This repository contains my assignment for Weekly of the LLM Class at Kalbe Digital University.
